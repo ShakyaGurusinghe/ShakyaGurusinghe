@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **shakyapersonal1@gmail.com**
 
+- ✍️ You can read my Blogs **storyloop4.wordpress.com**
+
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
