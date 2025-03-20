@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shakyapersonal1@gmail.com**
 
-### **Blogging Site**
+### **Blogging Site:**
 📖 Check out my blog:  
 ➡️ [StoryLoop](https://storyloop4.wordpress.com)
 
