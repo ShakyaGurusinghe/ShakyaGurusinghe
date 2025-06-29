@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shakya K. Gurusinghe</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOkcOXCNsWN2slvX-Rzue2r0TpsSydUYVaC2V8qV3JQvUKgtSeFyTe27NVNI4tD8Vyno&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakyagurusinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shakyagurusinghe" /> </p>
